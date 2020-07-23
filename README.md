@@ -2,7 +2,7 @@
 ======
 
 ### Hey, welcome to my github! 👋
-* :rocket: I'm a Frontend Dev
+* :rocket: I'm a Frontend Dev currently in the UK
 * :rocket: I use React Hooks, Webpack and Material UI at work
 * :rocket: I've used Vue before and I'm excited to see what Vue3 is like
 * :rocket: I love accessibility and I want to see it as widespread as possible
