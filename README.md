@@ -2,14 +2,16 @@
 ======
 
 ### Hey, welcome to my github! 👋
-* :rocket: I'm a Frontend Dev currently in the UK
-* :rocket: I use React Hooks, Webpack and Material UI at work
-* :rocket: I've used Vue before and I'm excited to see what Vue3 is like
-* :rocket: I love accessibility and I want to see it as widespread as possible
+* :rocket: I'm a Frontend Dev working on a Design System team for an e-commerce in the UK
+* :rocket: I use React, Tailwind, Cypress, Jest and Next.js at work
+* :rocket: I've previously used React, Redux, Webpack and Material UI in a Personalisation team
+* :rocket: I've used Vue before and I'd like to see what Vue3 is like
+* :rocket: I am an accessibility specialist and advocate, this is my main passion in development
+* :rocket: I co-founded an accessibilty guild at work
 
 ### What I'd like to work on
-* :rainbow: Cloud tecch projects
-* :rainbow: More accessibility
+* :rainbow: Projects focused on accessibility
+* :rainbow: Cloud tech projects
 * :rainbow: Creative frontend projects
 * :rainbow: Games development
 
