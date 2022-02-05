@@ -7,7 +7,7 @@
 * :rocket: I've previously used React, Redux, Webpack and Material UI in a Personalisation team
 * :rocket: I've used Vue before and I'd like to see what Vue3 is like
 * :rocket: I am an accessibility specialist and advocate, this is my main passion in development
-* :rocket: I co-founded an accessibilty guild at work
+* :rocket: I co-founded the Accessibilty Guild at work
 
 ### What I'd like to work on
 * :rainbow: Projects focused on accessibility
