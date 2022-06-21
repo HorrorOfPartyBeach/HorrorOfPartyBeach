@@ -4,9 +4,9 @@
 ### Hey, welcome to my github! 👋
 * :rocket: I'm a Frontend Software Engineer working at a digital design agency in the UK
 * :rocket: I've previously used React, Tailwind, Cypress, Jest, Next.js, Redux, Webpack and Material UI in the Personalisation and Design System teams at a UK ecommerce
-* :rocket: I've used Vue before and I'd like to see what Vue3 is like
+* :rocket: I've used Vue before and would like to again
 * :rocket: I am an accessibility specialist and advocate
-* :rocket: I co-founded the Accessibilty Guild at my previous company
+* :rocket: I co-founded the Accessibilty Guild at my previous company and am currently on the Accessibility Council at my new company
 
 ### What I'd like to work on
 * :rainbow: Projects focused on accessibility
