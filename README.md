@@ -4,7 +4,7 @@
 ### Hey, welcome to my github! 👋
 * :rocket: I'm an Accessibility Consultant and Frontend Software Engineer based in the UK
 * :rocket: I've previously used React, Tailwind, Cypress, Jest, Next.js, Redux, Webpack and Material UI
-* :rocket: I've worked in Personalisation and Design System teams at an ecommerce and internal site and edtech teams at a digital design agency
+* :rocket: I've worked in Personalisation and Design System teams at an ecommerce and internal site and edtech teams at a digital agency
 * :rocket: I co-founded the Accessibilty Guild at one company and was involved in the Accessibility Council at another
 
 ### What I'd like to work on
